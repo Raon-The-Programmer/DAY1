@@ -5,5 +5,5 @@ let titleCsaps=(a)=>{
     console.log(a)
 }
 
-let array=['partha','hello','guvi'];
+let array=['john','hello','guvi'];
 titleCsaps(array)
