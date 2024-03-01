@@ -1,0 +1,12 @@
+Using for loop:
+{ degree: 'Bachelor of Science', major: 'Computer Science', university: 'University of XYZ', year: 2015 }
+{ degree: 'Master of Business Administration', major: 'Finance', university: 'ABC Business School', year: 2017 }
+Using for-in loop:
+city: New York
+country: USA
+Using for-of loop:
+{ position: 'Software Engineer', company: 'Tech Corp', startDate: '2017-01-01', endDate: '2020-12-31', responsibilities: [ 'Developed web applications', 'Collaborated with cross-functional teams' ] }
+{ position: 'Product Manager', company: 'Startup Inc', startDate: '2021-01-01', endDate: 'Present', responsibilities: [ 'Defined product roadmap', 'Led product development initiatives' ] }
+Using forEach loop:
+{ position: 'Software Engineer', company: 'Tech Corp', startDate: '2017-01-01', endDate: '2020-12-31', responsibilities: [ 'Developed web applications', 'Collaborated with cross-functional teams' ] }
+{ position: 'Product Manager', company: 'Startup Inc', startDate: '2021-01-01', endDate: 'Present', responsibilities: [ 'Defined product roadmap', 'Led product development initiatives' ] }
